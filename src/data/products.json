@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "code": "EXL-001",
+    "name": "N-Nitroso-N-Desmethyl Doxycycline",
+    "cas": "N/A",
+    "formula": "C21H21N3O9",
+    "weight": "459.41 g/mol",
+    "stock": "Instock"
+  },
+  {
+    "id": 2,
+    "code": "EXL-002",
+    "name": "Clarithromycin-13CD3",
+    "cas": "959119-17-6 (unlabeled)",
+    "formula": "C3713CH66D3NO13",
+    "weight": "752 g/mol",
+    "stock": "Instock"
+  },
+  {
+    "id": 3,
+    "code": "EXL-003",
+    "name": "N-Nitroso-varenicline",
+    "cas": "N/A",
+    "formula": "C11H14N4O",
+    "weight": "240.261 g/mol",
+    "stock": "Instock"
+  },
+  {
+    "id": 4,
+    "code": "EXL-004",
+    "name": "N-Nitroso Vortioxetine",
+    "cas": "N/A",
+    "formula": "C18H21N3OS",
+    "weight": "327.44 g/mol",
+    "stock": "Instock"
+  },
+  {
+    "id": 5,
+    "code": "EXL-005",
+    "name": "N-Nitroso Rizatriptan",
+    "cas": "N/A",
+    "formula": "C15H18N6O",
+    "weight": "298.34 g/mol",
+    "stock": "Instock"
+  },
+  {
+    "id": 6,
+    "code": "EXL-006",
+    "name": "N-Nitroso Enalapril",
+    "cas": "N/A",
+    "formula": "C20H27N3O6",
+    "weight": "405.44 g/mol",
+    "stock": "Instock"
+  },
+  {
+    "id": 7,
+    "code": "EXL-007",
+    "name": "N-Nitroso Enoxacin",
+    "cas": "N/A",
+    "formula": "C15H16FN5O4",
+    "weight": "349.322 g/mol",
+    "stock": "Instock"
+  },
+  {
+    "id": 8,
+    "code": "EXL-008",
+    "name": "N-Nitroso Lisinopril",
+    "cas": "N/A",
+    "formula": "C21H30N4O6",
+    "weight": "434.49 g/mol",
+    "stock": "Instock"
+  },
+  {
+    "id": 9,
+    "code": "EXL-009",
+    "name": "N-Nitroso mefenamic acid",
+    "cas": "N/A",
+    "formula": "C15H14N2O3",
+    "weight": "270.28 g/mol",
+    "stock": "Instock"
+  },
+  {
+    "id": 10,
+    "code": "EXL-010",
+    "name": "N-Nitroso Metoprolol",
+    "cas": "N/A",
+    "formula": "C15H24N2O4",
+    "weight": "296.37 g/mol",
+    "stock": "Instock"
+  },
+  {
+    "id": 11,
+    "code": "EXL-011",
+    "name": "N-Nitrosodimethylamine – 13C2D6",
+    "cas": "62-75-9 (unlabeled)",
+    "formula": "13C2 D6 N2 O",
+    "weight": "82.1 g/mol",
+    "stock": "Instock"
+  },
+  {
+    "id": 12,
+    "code": "EXL-012",
+    "name": "N-Nitroso Perindopril",
+    "cas": "N/A",
+    "formula": "C19H31N3O6",
+    "weight": "397.5 g/mol",
+    "stock": "Instock"
+  },
+  {
+    "id": 13,
+    "code": "EXL-013",
+    "name": "N-Nitroso Ramipril",
+    "cas": "N/A",
+    "formula": "C23H31N3O6",
+    "weight": "445.51 g/mol",
+    "stock": "Instock"
+  },
+  {
+    "id": 14,
+    "code": "EXL-014",
+    "name": "N-Nitroso Salbutamol",
+    "cas": "N/A",
+    "formula": "C13H20N2O4",
+    "weight": "268.31 g/mol",
+    "stock": "Instock"
+  },
+  {
+    "id": 15,
+    "code": "EXL-015",
+    "name": "N-nitroso Acarbose",
+    "cas": "N/A",
+    "formula": "C25H42N2O19",
+    "weight": "674.60 g/mol",
+    "stock": "Instock"
+  },
+  {
+    "id": 16,
+    "code": "EXL-016",
+    "name": "N-Nitroso Apixaban Amino Acid Impurity",
+    "cas": "N/A",
+    "formula": "C25H26N6O6",
+    "weight": "506.51 g/mol",
+    "stock": "Instock"
+  },
+  {
+    "id": 17,
+    "code": "EXL-017",
+    "name": "Clozapine Impurity C-D8 N-nitroso",
+    "cas": "N/A",
+    "formula": "C17H8D8CIN5O",
+    "weight": "",
+    "stock": "Instock"
+  },
+  {
+    "id": 18,
+    "code": "EXL-018",
+    "name": "Dabigatran Etexilate N-Nitroso",
+    "cas": "N/A",
+    "formula": "C34H40N8O8",
+    "weight": "688.7 g/mol",
+    "stock": "Instock"
+  },
+  {
+    "id": 19,
+    "code": "EXL-019",
+    "name": "Desmethylerythromycin-D3 N-nitroso",
+    "cas": "N/A",
+    "formula": "C36H61D3N2O14",
+    "weight": "",
+    "stock": "Instock"
+  },
+  {
+    "id": 20,
+    "code": "EXL-020",
+    "name": "N-nitroso Torsemide",
+    "cas": "N/A",
+    "formula": "C16H19N5O4S",
+    "weight": "377.40 g/mol",
+    "stock": "Instock"
+  }
+]
